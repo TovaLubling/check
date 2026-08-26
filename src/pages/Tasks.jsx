@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
-import TaskCard from "../components/Taskcard";
+import TaskCard from "../components/TaskCard";
 
 const heroImages = [
     { src: "/class1.JPG", alt: "תלמידות לומדות יחד בכיתה" },
